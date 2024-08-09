@@ -1,1 +1,1 @@
-C:\Users\David\Desktop\programacion\rust\rust\tst\target\debug\tst.exe: C:\Users\David\Desktop\programacion\rust\rust\tst\src\main.rs
+C:\Users\dherr\OneDrive\ -\ UVa\Escritorio\programacion\rust\tst\target\debug\tst.exe: C:\Users\dherr\OneDrive\ -\ UVa\Escritorio\programacion\rust\tst\src\main.rs
